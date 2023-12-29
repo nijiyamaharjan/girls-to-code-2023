@@ -1,5 +1,7 @@
 # Assignment for Day 1 of Girls-To-Code
 
+View the final result at : https://nijiyamaharjan.github.io/girls-to-code-2023/
+
 Guidelines:
 1. Make separate components for Header, Sidenav, MainContent and Footer.
 2. Import those components in the main App component. Add css to display those components as shown in the figure. (If you don't know css, you may not add css, just import the components)
