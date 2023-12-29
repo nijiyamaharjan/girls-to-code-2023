@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/girls-to-code-2023/static/css/main.52dc7a41.css",
+    "main.js": "/girls-to-code-2023/static/js/main.ba7217b5.js",
+    "index.html": "/girls-to-code-2023/index.html",
+    "main.52dc7a41.css.map": "/girls-to-code-2023/static/css/main.52dc7a41.css.map",
+    "main.ba7217b5.js.map": "/girls-to-code-2023/static/js/main.ba7217b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52dc7a41.css",
+    "static/js/main.ba7217b5.js"
+  ]
+}
